@@ -1,0 +1,28 @@
+.contenedor{
+    border: 5px solid rgba(14, 148, 14, 0.49);
+    border-radius: 20px;
+    height: 250px;
+    width: 300px;
+    flex-grow: column;
+background-color: rgb(13, 209, 72);
+position: relative;
+}
+
+.btn{
+background-color: rgb(216, 87, 87);
+position: absolute;
+right: 3px;
+top:1px ;
+border-radius: 20px; 
+color: white;
+
+
+}
+
+.infoCod{
+display: flex;
+justify-content: space-around;
+margin: auto;
+margin-bottom: auto;
+
+}
