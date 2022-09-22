@@ -1,2 +1,2 @@
 # cursogumroad-
-Proyecto  basicos de HTML, CCS Y JS
+Proyecto  basicos de HTML, CSS Y JS
